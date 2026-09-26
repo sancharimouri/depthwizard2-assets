@@ -7,7 +7,7 @@ Release [`library-v1`](https://github.com/sancharimouri/depthwizard2-assets/rele
 the GeoTIFF tile (`<id>.tif`), a 256 px thumbnail (`<id>__thumb.jpg`) and a 1024 px preview
 (`<id>__preview.jpg`). Thumbnails and previews are resized and contrast-stretched: **modified** from the source.
 
-## Sentinel-2 (32 tiles, `sentinel2-*`)
+## Sentinel-2 (33 tiles, `sentinel2-*`: the 32 benchmark tiles + Darjeeling, the demo scene)
 Contains modified Copernicus Sentinel data (2025). Sentinel-2 L2A true colour (B04/B03/B02), 10 m,
 cropped to benchmark footprints. Use is governed by the
 [Copernicus Sentinel data legal notice](https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice)
