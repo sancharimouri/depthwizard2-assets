@@ -20,6 +20,10 @@ Changes: 2048 × 2048 px crops (Sikkim / Darjeeling Himalaya) cut from source sc
 `10300100CF621C00`, `10300100CE8D0400` (2022-03-07) and `1040010073381800` (2022-03-14),
 plus the resized thumbnails/previews above.
 
-## Not included
-The 50 DFC2019 tiles of the catalog are **not** published: the 2019 IEEE GRSS Data Fusion
-Contest terms forbid dissemination of the data. They are kept in private storage.
+## DFC2019 (40 tiles, `dfc2019-*`): TEMPORARY
+Source: 2019 IEEE GRSS Data Fusion Contest, Track 1 (WorldView-3 RGB, Jacksonville and Omaha;
+dataset by Johns Hopkins University Applied Physics Laboratory / IARPA CORE3D). Changes: tiles
+re-encoded losslessly (deflate), previews resized and contrast-stretched.
+**The DFC2019 contest terms restrict redistribution of this data. It is published here temporarily
+by the repository owner and will be removed; do not reuse or redistribute it.**
+Only the 40 tiles the Depth Wizard desktop app downloads on demand are here (no thumbnails).
